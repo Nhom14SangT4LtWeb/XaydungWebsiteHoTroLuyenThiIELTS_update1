@@ -91,7 +91,15 @@
           <p>Tiêu đề</p>
           <input class="form-control" id="focusedInput" type="text" value="Hello, world!">
           <p>Nội dung</p>
-          <textarea type="text" class="form-control" rows="5" id="exampleInputPassword3" placeholder="Sau cơn dông trời lại sáng! Vì thế hãy chiến đấu với cơn dông đến hơi thở cuối cùng!!!.blablablablabalbalbalbalabalnalabalababalabalbalablabalababalablablabalbalabalbalabaaaabalalalbalalbalbabalababalbblablablablabalbalbalbalabalnalabalababalabalbalablabalababalablablabalbalabalbalabaaaabalalalbalalbalbabalababalb" required></textarea>
+          
+          <textarea type="text" class="form-control" rows="5" id="exampleInputPassword3" placeholder="
+          		Sau cơn dông trời lại sáng! Vì thế hãy chiến đấu với cơn dông đến hơi thở cuối cùng!!!.
+		          blablablablabalbalbalbalabalnalabalababalabalbalablabalababalablablabalbalabalbalabaaaaba
+         		 lalalbalalbalbabalababalbblablablablabalbalbalbalabalnalabalababalabalbalablabalababalabla
+          		blabalbalabalbalabaaaabalalalbalalbalbabalababalb" required>
+          </textarea>
+          
+          
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

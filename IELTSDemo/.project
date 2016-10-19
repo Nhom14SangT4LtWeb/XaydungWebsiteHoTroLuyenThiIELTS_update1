@@ -30,6 +30,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>WebContent/a.pdf</name>
+			<type>1</type>
+			<location>C:/Users/khanh/Downloads/Documents/_developer_shed_network_server_side_java_the_jsp_files_part_4_the_red_pill_7579.pdf</location>
+		</link>
+		<link>
 			<name>WebContent/css</name>
 			<type>2</type>
 			<location>C:/Users/khanh/Desktop/desktop/IELTS_jsp/IELTS_jsp/WebsiteHoTroLuyenThiIELTS/WebContent/css</location>
