@@ -193,13 +193,13 @@
                 <div class="form-group">
                   <h5><label class="control-label col-sm-2" for="new"><p style="color:cyan">New</label></h5>
                   <div class="col-sm-10">
-                    <input type="newpass" class="form-control" id="np" placeholder="new">
+                    <input type="password" class="form-control" id="np" placeholder="new">
                   </div>
                 </div>
                 <div class="form-group">
                   <h5><label class="control-label col-sm-2" for="repw"><p style="color:cyan">Re-type</label></h5>
                   <div class="col-sm-10">
-                    <input type="Re-enter password" class="form-control" id="repw" placeholder="Re-enter password">
+                    <input type="password" class="form-control" id="repw" placeholder="Re-enter password">
                   </div>
                 </div>
               </form>

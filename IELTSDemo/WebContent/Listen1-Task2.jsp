@@ -107,7 +107,7 @@ img:hover {
                     </h3>
                     <!--HÌNH CÂU HỎI-->
                     <div class="col-md-9 col-sm-9 col-xs-9">
-                        <img src="imgs/CauHoi.jpg" class="img-rounded" alt="Cinque Terre" width="500" height="600">
+                        <iframe  src="a.pdf" alt="Cinque Terre" width="500" height="600"></iframe>
 
                     </div>
                     <!-- /HÌNH CÂU HỎI -->
@@ -268,7 +268,7 @@ img:hover {
                     <br> <br> <br>
                     <!--HÌNH ĐOẠN VĂN-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
-                        <img src="imgs/DoanVan.jpg" class="img-rounded" alt="Cinque Terre" width="500" height="600">
+                        <iframe  src="a.pdf" alt="Cinque Terre" width="500" height="600"></iframe>
                     </div>
                     <!--/HÌNH ĐOẠN VĂN-->
                     <!-- /HÌNH CÂU HỎI -->

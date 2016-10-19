@@ -106,7 +106,7 @@ img:hover {
                     </h3>
                     <!--HÌNH CÂU HỎI-->
                     <div class="col-md-9 col-sm-9 col-xs-9">
-                        <img src="imgs/CauHoi.jpg" class="img-rounded" alt="Cinque Terre" width="500" height="600">
+                        <iframe  src="a.pdf" alt="Cinque Terre" width="500" height="600"></iframe>
 
                     </div>
                     <!-- /HÌNH CÂU HỎI -->
@@ -117,7 +117,9 @@ img:hover {
                     <span class="glyphicon glyphicon-fast-forward"></span-->
                     <!--/ NGHE -->
                     <!--TRẢ LỜI CÂU HỎI-->
+                   
                     <div class="input-group">
+                    
                         <h3><span class="input-group-addon">1</span>
                         <input type="text" class="form-control" placeholder=""><h3>
                         <br>
@@ -133,7 +135,6 @@ img:hover {
                         <h3><span class="input-group-addon">5</span>
                         <input type="text" class="form-control" placeholder=""><h3>
                         <br>
-                        
                         
                         <h3>
                         <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Save</button></h3>
@@ -158,6 +159,7 @@ img:hover {
                        
                        
                      </div>
+                     
                     <!--KẾT THÚC TRẢ LỜI CÂU HỎI-->
             </div>
 
@@ -272,7 +274,7 @@ img:hover {
                     <br> <br> <br>
                     <!--HÌNH ĐOẠN VĂN-->
                     <div class="col-md-6 col-sm-6 col-xs-12">
-                        <img src="imgs/DoanVan.jpg" class="img-rounded" alt="Cinque Terre" width="500" height="600">
+                        <iframe  src="a.pdf" alt="Cinque Terre" width="500" height="600"></iframe>
                     </div>
                     <!--/HÌNH ĐOẠN VĂN-->
                     <!-- /HÌNH CÂU HỎI -->
